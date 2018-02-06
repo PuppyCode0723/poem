@@ -1,0 +1,6 @@
+Today is rainy day.
+Tomorrow is sunny day.
+Sky is blue.
+Sky is yellow.
+Sky is red.
+Sky is beautiful.
