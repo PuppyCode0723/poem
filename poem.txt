@@ -3,4 +3,5 @@ Tomorrow is sunny day.
 Sky is blue.
 Sky is yellow.
 Sky is red.
+Recycle!
 Sky is beautiful.
