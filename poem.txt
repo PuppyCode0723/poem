@@ -6,3 +6,5 @@ Sky is red.
 Recycle!
 Sky is beautiful.
 Today is so cold.
+
+today is 2018/02/06, so cold.
